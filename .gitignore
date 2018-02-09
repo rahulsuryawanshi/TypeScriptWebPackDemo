@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules
+
+#build generated files
+dist
+lib
+solution
+temp
+*.sppkg
+
+#visual studio files
+.ntvs_analysis.dat
+.vs
+bin
+obj

@@ -10,14 +10,21 @@
   "license": "ISC",
   "devDependencies": {
     "awesome-typescript-loader": "^3.4.1",
+    "del": "^3.0.0",
     "gulp": "^3.9.1",
+    "gulp-watch": "^5.0.0",
     "source-map-loader": "^0.2.3",
+    "spsave": "^3.1.1",
     "typescript": "^2.7.1",
     "webpack": "^3.10.0",
     "webpack-dev-server": "^2.11.1"
   },
   "dependencies": {
-    "@types/prop-types": "^15.5.2",
+    "@pnp/common": "^1.0.1",
+    "@pnp/graph": "^1.0.1",
+    "@pnp/logging": "^1.0.1",
+    "@pnp/odata": "^1.0.1",
+    "@pnp/sp": "^1.0.1",
     "@types/react": "^16.0.36",
     "@types/react-dom": "^16.0.3",
     "office-ui-fabric-react": "^5.48.2",
